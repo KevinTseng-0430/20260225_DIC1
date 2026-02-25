@@ -30,3 +30,8 @@ The page was verified using a browser subagent, confirming:
 1. The **premium aesthetic** matches modern design standards.
 2. The **clock** correctly updates in real-time.
 3. The **hover effects** provide smooth visual feedback.
+
+## 🌐 Deployment
+- **Source Control**: Managed via Git.
+- **Repository**: [KevinTseng-0430/20260225_DIC1](https://github.com/KevinTseng-0430/20260225_DIC1.git)
+- **Action**: The project was initialized and pushed to the `main` branch on GitHub.
