@@ -1,7 +1,7 @@
 # Project Summary: Bo-Yan, Tseng Personal Web Page
 
 ![Personal Web Page Preview](screenshot.png)
-
+Live Demo: https://kevintseng-0430.github.io/20260225_DIC1/
 ## 🚀 Overview
 Created a high-end, premium personal web page for **Bo-Yan, Tseng** featuring a modern dark-mode aesthetic and a real-time digital clock.
 
